@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya NAMA KAMU 👋</h1>
+<h1 align="center">Hai, saya ILHAM OKTAVIAN 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Suka+Open+Source;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
@@ -13,11 +13,10 @@
 
 ### 🧑‍💻 Tentang Saya
 
-- 🔭 Sedang mengerjakan **NAMA PROYEK**
-- 🌱 Sedang belajar **TEKNOLOGI BARU**
-- 💬 Tanyakan saya tentang **TOPIK KEAHLIAN**
-- 📍 Berdomisili di **KOTA, INDONESIA**
-- ⚡ Fun fact: **ISI SENDIRI**
+- 🌱 Sedang belajar **CYBER SECURITY**
+- 💬 Tanyakan saya tentang **CYBER SECURITY**
+- 📍 Berdomisili di **TANGERANG, INDONESIA**
+- ⚡ Fun fact: **lorem ipsum dolor sit amet**
 
 ---
 
@@ -25,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,php,laravel,mysql,postgres,docker,git,linux&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,php,mysql,postgres,git,linux&theme=dark" alt="Tech stack" />
   </a>
 </p>
 
@@ -55,10 +54,10 @@
 ### 🤝 Hubungi Saya
 
 <p align="center">
-  <a href="https://linkedin.com/in/Ilhamokta74"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:EMAIL@KAMU.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/Ilhamokta74"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/Ilhamokta74"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/ilham-oktavian-580301222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ilhamoktavian74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 <p align="center">
